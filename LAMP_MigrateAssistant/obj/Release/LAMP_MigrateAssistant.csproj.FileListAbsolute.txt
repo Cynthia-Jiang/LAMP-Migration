@@ -1,0 +1,74 @@
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.exe.config
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\PreScript.txt
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Readme.md
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\aamt.tar.gz
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\config.json
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\WebAPPwithMySQLDB.json
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.exe
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.pdb
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\ARMClient.Authentication.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Newtonsoft.Json.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Renci.SshNet.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\ARMClient.Authentication.pdb
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Newtonsoft.Json.xml
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Renci.SshNet.xml
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.csprojResolveAssemblyReference.cache
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_1_StartUp.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_1_Statement.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_2_ConnectToLinux.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_3_2_ApacheChecking.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_3_ApacheChecking.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_1_CreateOrChoose.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_ChoosePublishSettings.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_CreateOnAzure.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_ChooseExitstingWebApp.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_5_Migration.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.MainForm.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Properties.Resources.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Resource1.resources
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.csproj.GenerateResource.Cache
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.exe
+C:\Users\yuray\Documents\Visual Studio 2013\Workspace\LAMP_MigrateAssistant\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.pdb
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.exe.config
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.exe
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.pdb
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\PreScript.txt
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Readme.md
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\aamt.tar.gz
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\config.json
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\WebAPPwithMySQLDB.json
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.exe
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\LAMP_MigrateAssistant.pdb
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\ARMClient.Authentication.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Newtonsoft.Json.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Renci.SshNet.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\ARMClient.Authentication.pdb
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Newtonsoft.Json.xml
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\Renci.SshNet.xml
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.csprojResolveAssemblyReference.cache
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_1_StartUp.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_1_Statement.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_2_ConnectToLinux.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_3_2_ApacheChecking.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_3_ApacheChecking.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_1_CreateOrChoose.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_ChoosePublishSettings.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_CreateOnAzure.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_4_2_ChooseExitstingWebApp.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Controls.Page_5_Migration.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.MainForm.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Properties.Resources.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.Resource1.resources
+C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\LAMP_MigrateAssistant\obj\Release\LAMP_MigrateAssistant.csproj.GenerateResource.Cache

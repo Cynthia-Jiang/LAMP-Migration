@@ -1,0 +1,7 @@
+K
+TestSession
+/etc/apache2/apache3.conf
+N
+Y
+Y
+/homeadamus/MigratesToC

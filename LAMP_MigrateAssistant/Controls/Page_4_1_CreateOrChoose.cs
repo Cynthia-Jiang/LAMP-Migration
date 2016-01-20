@@ -21,12 +21,6 @@ namespace LAMP_MigrateAssistant.Controls
         }
         private SSHHelper _sshHelper;
 
-        private void btCreate_Click(object sender, EventArgs e)
-        {
-            Parent.Controls.Add(new Page_4_2_CreateOnAzure());
-            Parent.Controls.Remove(this);
-        }
-
         private void btChoose_Click(object sender, EventArgs e)
         {
             Parent.Controls.Add(new Page_4_2_ChoosePublishSettings());
@@ -36,6 +30,12 @@ namespace LAMP_MigrateAssistant.Controls
         private void button1_Click(object sender, EventArgs e)
         {
             Parent.Controls.Add(new Page_4_2_ChooseExitstingWebApp());
+            Parent.Controls.Remove(this);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Parent.Controls.Add(new Page_4_2_CreateOnAzure());
             Parent.Controls.Remove(this);
         }
     }

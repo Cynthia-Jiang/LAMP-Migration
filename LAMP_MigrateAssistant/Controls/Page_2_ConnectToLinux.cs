@@ -31,9 +31,9 @@ namespace LAMP_MigrateAssistant.Controls
                 this.tbPort.Text = Global.userInfo.Port;
             }
             //For debug
-            // this.tbServerAddr.Text = "40.84.158.217";
-            //// this.tbUserName.Text = "azureuser";
-            // this.tbPassword.Text = "Azureuser1";
+             this.tbServerAddr.Text = "104.215.91.124";
+             this.tbUserName.Text = "azureuser";
+             this.tbPassword.Text = "Azureuser1";
             //this.tbServerAddr.Text = "centos102.cloudapp.net";
             //this.tbUserName.Text = "azureadmin";
             //this.tbPassword.Text = "Internet=01";

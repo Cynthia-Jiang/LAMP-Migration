@@ -79,6 +79,8 @@ namespace LAMP_MigrateAssistant.Controls
         }
         private async void btLogin_Click(object sender, EventArgs e)
         {
+            Global.AzureEnvironments = AzureEnvironments.Prod;
+            this._authHelper.AzureEnvironments = AzureEnvironments.Prod;
             this.pbBusyStatue.Visible = true;
             this.lbMessage.Text = "Retrieving your Account and Subscirption information ...";
             try

@@ -113,7 +113,7 @@ namespace LAMP_MigrateAssistant.Controls
                 //path "https://management.azure.com/subscriptions/<YourSubscriptionId>/resourcegroups/<YourResourceGroupName>/providers/Microsoft.Resources/deployments/<YourDeploymentName>?api-version=2015-01-01"
                 var path = @"/subscriptions/"+
                     subscriptionId+@"/resourcegroups/"+
-                    "Adamus1231231" + @"/providers/Microsoft.Resources/deployments/" +
+                    tbRGName.Text + @"/providers/Microsoft.Resources/deployments/" +
                     tbWebAppName.Text+@"?api-version=2015-01-01";
                 Uri uri = AuthUtils.EnsureAbsoluteUri(path, this._authHelper);
                 var cacheInfo = await this._authHelper.GetToken(subscriptionId);

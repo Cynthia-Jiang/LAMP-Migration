@@ -113,15 +113,17 @@ namespace LAMP_MigrateAssistant.Controls
                 //path "https://management.azure.com/subscriptions/<YourSubscriptionId>/resourcegroups/<YourResourceGroupName>/providers/Microsoft.Resources/deployments/<YourDeploymentName>?api-version=2015-01-01"
                 var path = @"/subscriptions/"+
                     subscriptionId+@"/resourcegroups/"+
-                    tbRGName.Text + @"/providers/Microsoft.Resources/deployments/" +
-                    tbWebAppName.Text+@"?api-version=2015-01-01";
+                    tbRGName.Text + @"/providers/Microsoft.web/sites/" +
+                    tbWebAppName.Text+@"?api-version=2015-08-01";   
                 Uri uri = AuthUtils.EnsureAbsoluteUri(path, this._authHelper);
                 var cacheInfo = await this._authHelper.GetToken(subscriptionId);
                 var handler = new HttpHandler(new HttpClientHandler(), ConfigSettingFactory.ConfigSettings.Verbose);
                 //HttpContent payload = new StringContent("{\"location\":\"East Asia\",\"properties\":{\"serverFarm\":\"Default0\"}}", Encoding.UTF8, Constants.JsonContentType);
                 //"{\"location\":\"East Asia\",\"properties\":{\"serverFarm\":\"Default0\"}}";
-                var _tmpPayloadFile = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WebAPPwithMySQLDB.json");
-                HttpContent payload = new StringContent(File.ReadAllText(_tmpPayloadFile), Encoding.UTF8, Constants.JsonContentType);
+                  var _tmpPayloadFile = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WebAPPtest.json");
+                  HttpContent payload = new StringContent(File.ReadAllText(_tmpPayloadFile), Encoding.UTF8, Constants.JsonContentType);
+                 
+              //  HttpContent payload = new StringContent("{\"location\": \"" + this.cbRGLocation.SelectedItem + "\"}", Encoding.UTF8, Constants.JsonContentType);
                 await AuthUtils.HttpInvoke(uri, cacheInfo, "put", handler, payload);
             }
             catch(Exception ex)

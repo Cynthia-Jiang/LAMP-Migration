@@ -22,3 +22,15 @@ C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\ARMClient.Au
 C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.dll
 C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.pdb
 C:\Users\t-yajian\Documents\workspace\Release\LAMP_MigrateAssistant\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.csprojResolveAssemblyReference.cache
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\ARMClient.Authentication.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\ARMClient.Authentication.pdb
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\Newtonsoft.Json.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\System.Net.Http.Formatting.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\Newtonsoft.Json.xml
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\bin\Debug\System.Net.Http.Formatting.xml
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.csprojResolveAssemblyReference.cache
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.dll
+C:\YaJiang\gitTest\LAMP-Migration\ARMClient.Authentication\obj\Debug\ARMClient.Authentication.pdb

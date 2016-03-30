@@ -1,0 +1,40 @@
+sudo apt-get update
+sudo apt-get install apache2 mysql-server php5 php5-mysql
+apt-cache search php5
+sudo service apache2 restart
+
+mysql -u root -p
+CREATE DATABASE wpdb;
+CREATE USER wpdbuser@localhost IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON wpdb.* TO wpdbuser@localhost;
+FLUSH PRIVILEGES;
+exit
+
+sudo service apache2 restart
+sudo service mysql restart
+wget http://wordpress.org/latest.zip
+sudo apt-get install unzip
+sudo apt-get update
+sudo apt-get install php5-gd libssh2-php
+sudo unzip -q latest.zip -d /var/www/html/
+sudo chown -R www-data.www-data /var/www/html/wordpress
+sudo chmod -R 755 /var/www/html/wordpress
+sudo mkdir -p /var/www/html/wordpress/wp-content/uploads
+sudo chown -R :www-data /var/www/html/wordpress/wp-content/uploads
+cd /var/www/html/wordpress/
+sudo cp wp-config-sample.php wp-config.php
+sudo vi wp-config.php
+
+[...]
+
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'wpdb');
+
+/** MySQL database username */
+define('DB_USER', 'wpdbuser');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'password');
+
+[...] 

@@ -1,0 +1,9 @@
+https://help.ubuntu.com/community/WordPress
+
+https://wordpressubuntusetup.wordpress.com/
+
+http://ubuntuhandbook.org/index.php/2014/04/install-set-up-wordpress-ubuntu-14-04/
+
+https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-install-lamp-stack/
+
+http://windows.microsoft.com/en-us/windows-8/browse-web-internet-explorer-tutorial
